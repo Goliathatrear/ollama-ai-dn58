@@ -1,4 +1,4 @@
-# 
+# Open Source Ollama themes. Featuring edge-computing and automated-workflows — optimized for maximum performance and efficiency.
 
 
 
